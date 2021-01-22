@@ -34,9 +34,10 @@ Several such data sets exist, but for this project, we’ll use the German Traff
 ### Getting Started
 * Download [the data set] (https://cdn.cs50.net/ai/2020/x/projects/5/gtsrb.zip) for this project and unzip it. Move the resulting gtsrb directory inside of the traffic directory.
 * Inside of the traffic directory, run 
-````python
+```python
 pip3 install -r requirements.txt
 ```
+
 to install this project’s dependencies: opencv-python for image processing, scikit-learn for ML-related functions, and tensorflow for neural networks.
 
 ### Acknowledgements
